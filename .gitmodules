@@ -1,0 +1,12 @@
+[submodule "EIOPA_all_curves"]
+	path = EIOPA_all_curves
+	url = https://github.com/open-source-modelling/EIOPA_all_curves.git
+[submodule "IMF_GDP_pipeline"]
+	path = IMF_GDP_pipeline
+	url = https://github.com/open-source-modelling/IMF_GDP_pipeline.git
+[submodule "SFCR_using_Mistral_2024"]
+	path = SFCR_using_Mistral_2024
+	url = https://github.com/open-source-modelling/SFCR_using_Mistral_2024.git
+[submodule "SFCR_using_Mistral_2025"]
+	path = SFCR_using_Mistral_2025
+	url = https://github.com/open-source-modelling/SFCR_using_Mistral_2025.git
